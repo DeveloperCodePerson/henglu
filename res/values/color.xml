@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+     <color name="black">#000000</color>
+    <color name="transpant">#00000000</color>
+    <color name="login_btn_color">#ff9c00</color>
+     <color name="login_btn_color_down">#ff2525</color>
+     <color name="login_textview_color">#88FFFFFF</color>
+     <color name="login_linearlayout_color">#33FFFFFF</color>
+       <color name="login_linearlayout_color_">#55FFFFFF</color>
+     <color name="login_line">#707499</color>
+</resources>

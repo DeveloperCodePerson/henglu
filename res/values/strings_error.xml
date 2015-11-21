@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_error">下载失败</string>
+    <string name="upload_error">上传失败</string>
+    <string name="load_error">加载失败</string>
+    <string name="mobile_error">拨号失败</string>
+    <string name="email_error">邮箱格式不正确</string>
+    <string name="confirmpassword_error">确认密码和新密码不同</string>
+    <string name="error_network">网络不可用,请检查网络连接</string>
+    <string name="error_uploadheadpic">头像上传失败</string>
+    <string name="error_projecttodo_finish">项目行事历已经完成了,无法更新</string>
+    <string name="error_starttime_endtime">开始时间不能大于结束时间</string>
+    <string name="error_addproject_power">您没有权限添加项目</string>
+    <string name="error_comment_empty">请输入评论内容</string>
+</resources>

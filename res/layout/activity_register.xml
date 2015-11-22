@@ -5,7 +5,7 @@
     android:background="@drawable/login_bg" >
 
     <Button
-        android:id="@+id/login"
+        android:id="@+id/check"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
@@ -60,6 +60,7 @@
                 android:textColorHint="@color/login_textview_color"
                 android:textCursorDrawable="@null" />
             <Button
+                android:id="@+id/getCode"
                 android:layout_marginRight="10dp"
                 android:layout_width="wrap_content"
                 android:layout_height="30dp"
@@ -116,9 +117,9 @@
         android:id="@+id/logininto"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/login"
+        android:layout_below="@+id/check"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="14dp"
+        android:layout_marginTop="24dp"
         android:text="@string/register_directlogin"
         android:textColor="@color/login_textview_color" />
 

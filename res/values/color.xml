@@ -9,4 +9,5 @@
      <color name="login_linearlayout_color">#33FFFFFF</color>
        <color name="login_linearlayout_color_">#55FFFFFF</color>
      <color name="login_line">#707499</color>
+     <color name="login_btn_state">#8B8B7A</color>
 </resources>

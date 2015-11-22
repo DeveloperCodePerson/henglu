@@ -14,7 +14,7 @@
         android:layout_marginRight="15dp"
         android:layout_marginTop="26dp"
         android:background="@drawable/login_activity_btn_radius"
-        android:text="@string/register_validation"
+        android:text="@string/setting"
         android:textColor="@color/white" />
 
     <LinearLayout
@@ -110,7 +110,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/login"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="14dp"
+        android:layout_marginTop="24dp"
         android:text="@string/register_directlogin"
         android:textColor="@color/login_textview_color" />
 

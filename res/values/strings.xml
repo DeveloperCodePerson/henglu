@@ -13,4 +13,5 @@
 		<string name="register_directlogin">已有账户,直接登录</string>
 		<string name="setting_password">请设置您的密码</string>
 		<string name="check_password">请确认密码</string>
+		<string name="setting">设置</string>
 </resources>

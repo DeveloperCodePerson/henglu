@@ -25,6 +25,9 @@
         <activity
             android:name="com.henglu.haiway.RegisterActivity"
             ></activity>
+         <activity
+            android:name="com.henglu.haiway.SettingPassWordActivity"
+            ></activity>
     </application>
 
 </manifest>
